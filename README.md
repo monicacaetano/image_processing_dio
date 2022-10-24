@@ -1,4 +1,4 @@
-# image_processing_dio
+# image_processing_mmc
 
 Description. 
 The package image_processing_dio is used to: 
@@ -18,7 +18,7 @@ The package image_processing_dio is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_dio
 
 ```bash
-pip install image_processing_dio
+pip install image_processing_mmc
 ```
 
 ## Author
