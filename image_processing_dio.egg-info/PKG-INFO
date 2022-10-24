@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing-dio
+Version: 0.0.1
+Summary: Image Processing Package using Skimage
+Home-page: https://github.com/monicacaetano/image_processing_dio_unimed.git
+Author: monica
+Author-email: monica02caetano@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing_dio
 
 Description. 
@@ -23,7 +33,7 @@ pip install image_processing_dio
 
 ## Author
 
-monicacaetano
+monica
 
 ## License
 
